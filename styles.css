@@ -1,0 +1,11 @@
+.canvas {
+    display: block;
+    border: solid #000 4px;
+}
+.body {
+    display: flex;
+    flex-direction: row;
+}
+.score {
+    margin-left: 20px;
+}
